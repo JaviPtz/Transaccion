@@ -1,1 +1,1 @@
-# Transacción de cuenta bancaria sin begin, commit y rollback.
+# Transacción de cuenta de depósitos
